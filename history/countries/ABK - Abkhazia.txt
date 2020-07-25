@@ -1,0 +1,11 @@
+government = monarchy
+
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+primary_culture = abkhaz
+religion = orthodox
+technology_group = eastern
+capital = 1856	# Abkhazia
+
+
