@@ -1,0 +1,9 @@
+government = tribal
+
+add_government_reform = tribal_kingdom
+government_rank = 1
+mercantilism = 0.1
+primary_culture = chechen
+religion = sunni
+technology_group = muslim
+capital = 2208 #Terek/Chechnya
